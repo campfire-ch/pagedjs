@@ -1,8 +1,8 @@
 {
-  "name": "pagedjs",
-  "version": "0.5.0-beta.2",
-  "description": "Chunks up a document into paged media flows and applies print styles",
-  "author": "Fred Chasen",
+  "name": "@campfire/pagedjs",
+  "version": "0.5.1-beta.2",
+  "description": "Updated pagedjs fork to work in docker with puppeteer",
+  "author": "Cedric Delacombaz (Original Author: Fred Chasen)",
   "license": "MIT",
   "homepage": "https://pagedmedia.org",
   "main": "src/index.js",
@@ -65,7 +65,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.coko.foundation/pagedjs/pagedjs.git"
+    "url": "https://github.com/campfire-ch/pagedjs.git"
   },
   "files": [
     "dist",
