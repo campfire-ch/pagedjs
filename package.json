@@ -1,5 +1,5 @@
 {
-  "name": "@campfire/pagedjs",
+  "name": "@cedric_campfire/pagedjs",
   "version": "0.5.1-beta.2",
   "description": "Updated pagedjs fork to work in docker with puppeteer",
   "author": "Cedric Delacombaz (Original Author: Fred Chasen)",
